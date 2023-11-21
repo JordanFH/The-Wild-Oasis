@@ -14,6 +14,7 @@ const StyledSideber = styled.aside`
   display: flex;
   flex-direction: column;
   gap: 3.2rem;
+  max-height: 100vh;
 `;
 
 function Sideber() {
