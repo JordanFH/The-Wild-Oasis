@@ -22,8 +22,8 @@ function Sideber() {
       <Logo />
       <MainNav />
 
-      <Uploader />
-      <SocialLinks />
+      {/* <Uploader /> */}
+      {/* <SocialLinks /> */}
     </StyledSideber>
   );
 }
